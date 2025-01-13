@@ -1,0 +1,7 @@
+When you Define a Veriable so define the type of the variable;
+
+
+int age:number = 10; // 
+
+
+imp : kuch v user ko aap ko first define the type of data;
